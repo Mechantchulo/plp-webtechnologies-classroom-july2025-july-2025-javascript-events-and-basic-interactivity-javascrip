@@ -1,0 +1,19 @@
+/* Default light mode */
+body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dark-mode {
+  background: #121212;
+  color: #f9f9f9;
+}
